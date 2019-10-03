@@ -4,7 +4,7 @@
 #include <ctime>
 
 using namespace std;
-
+ 
 int main()
 {
 	enum fields { WORD, HINT, NUM_FIELDS };
